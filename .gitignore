@@ -1,0 +1,8 @@
+venv
+.env
+Youtube_Summ.py
+website_Summarizer.py
+web2.py
+math_solver_v2.py
+math_solver_v3.py
+app.py
